@@ -1,0 +1,7 @@
+{
+  "test_example.py::TestSample::()::test_answer_2": true,
+  "test_parameters.py::test_add[54-42]": true,
+  "test_parameters.py::test_add[8-9]": true,
+  "test_pyexample_rerun.py::test_add2": true,
+  "testexample.py::TestSample::()": true
+}

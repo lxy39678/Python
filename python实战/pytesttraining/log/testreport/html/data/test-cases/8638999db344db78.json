@@ -1,0 +1,84 @@
+{
+  "uid" : "8638999db344db78",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_order.test_add2",
+  "fullName" : "src.testcases.D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_order.test_add2",
+  "historyId" : "ba77e723e645b3adc0ceb6b719ae336d",
+  "time" : {
+    "start" : 1544338863731,
+    "stop" : 1544338865822,
+    "duration" : 2091
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: 'aa.txt'",
+  "statusTrace" : "@pytest.mark.run(order=2)\n    def test_add2():\n        print(\"I am 2\")\n        time.sleep(2)\n>       file_content = open('aa.txt','r')\nE       FileNotFoundError: [Errno 2] No such file or directory: 'aa.txt'\n\nsrc\\testcases\\api\\test_order.py:12: FileNotFoundError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: 'aa.txt'",
+    "statusTrace" : "@pytest.mark.run(order=2)\n    def test_add2():\n        print(\"I am 2\")\n        time.sleep(2)\n>       file_content = open('aa.txt','r')\nE       FileNotFoundError: [Errno 2] No such file or directory: 'aa.txt'\n\nsrc\\testcases\\api\\test_order.py:12: FileNotFoundError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2e983ae6797b45a8",
+      "name" : "Captured stdout call",
+      "source" : "2e983ae6797b45a8.txt",
+      "type" : "text/plain",
+      "size" : 7
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCVAEIQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "13052-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_order.test_add2"
+  }, {
+    "name" : "package",
+    "value" : "src.testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8638999db344db78.json",
+  "parameterValues" : [ ]
+}

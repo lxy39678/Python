@@ -1,0 +1,60 @@
+{
+  "uid" : "c3e17d68a758041f",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_parameters.test_add[6-6]",
+  "fullName" : "src.D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_parameters.test_add[6-6]",
+  "historyId" : "d160a9a68d26b10a094214497a2bf842",
+  "time" : {
+    "start" : 1537005263561,
+    "stop" : 1537005263562,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCVAEIQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "17164-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src"
+  }, {
+    "name" : "testClass",
+    "value" : "src"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_parameters.test_add[6-6]"
+  }, {
+    "name" : "package",
+    "value" : "src"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3e17d68a758041f.json",
+  "parameterValues" : [ ]
+}

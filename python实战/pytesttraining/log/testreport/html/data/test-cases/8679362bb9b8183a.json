@@ -1,0 +1,76 @@
+{
+  "uid" : "8679362bb9b8183a",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s3",
+  "fullName" : "src.testcases.D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s3",
+  "historyId" : "662de55c83773cf66d42d932a2c54f3d",
+  "time" : {
+    "start" : 1544338882232,
+    "stop" : 1544338882239,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9029238e03d67798",
+      "name" : "Captured stdout call",
+      "source" : "9029238e03d67798.txt",
+      "type" : "text/plain",
+      "size" : 25
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCVAEIQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "13052-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s3"
+  }, {
+    "name" : "package",
+    "value" : "src.testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8679362bb9b8183a.json",
+  "parameterValues" : [ ]
+}

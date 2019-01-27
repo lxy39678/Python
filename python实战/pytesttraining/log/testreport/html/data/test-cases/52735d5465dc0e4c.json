@@ -1,0 +1,82 @@
+{
+  "uid" : "52735d5465dc0e4c",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_decorator.TestSample.test_answer2",
+  "fullName" : "src.testcases.D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_decorator.TestSample.test_answer2",
+  "historyId" : "527641757b422ac44f270e110101da5",
+  "time" : {
+    "start" : 1544338865901,
+    "stop" : 1544338865906,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6b6fd09e6012fad3",
+      "name" : "Captured stdout setup",
+      "source" : "6b6fd09e6012fad3.txt",
+      "type" : "text/plain",
+      "size" : 17
+    }, {
+      "uid" : "a2ef06987487c03",
+      "name" : "Captured stdout call",
+      "source" : "a2ef06987487c03.txt",
+      "type" : "text/plain",
+      "size" : 19
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCVAEIQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "13052-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_decorator.TestSample.test_answer2"
+  }, {
+    "name" : "package",
+    "value" : "src.testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52735d5465dc0e4c.json",
+  "parameterValues" : [ ]
+}

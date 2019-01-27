@@ -1,0 +1,271 @@
+[ {
+  "uid" : "a82db56f3350e23e",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_autouse.TestSample.test_answer2",
+  "time" : {
+    "start" : 1544338865840,
+    "stop" : 1544338865842,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c29c22859731959d",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s2",
+  "time" : {
+    "start" : 1544338882222,
+    "stop" : 1544338882224,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52735d5465dc0e4c",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_decorator.TestSample.test_answer2",
+  "time" : {
+    "start" : 1544338865901,
+    "stop" : 1544338865906,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8e00ff3427b82b8",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample.test_answer_2",
+  "time" : {
+    "start" : 1544338868948,
+    "stop" : 1544338870955,
+    "duration" : 2007
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "796ecfddb361bee8",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_rerun.test_add",
+  "time" : {
+    "start" : 1544338882172,
+    "stop" : 1544338882174,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2391a412eba0196f",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample.test_answer",
+  "time" : {
+    "start" : 1544338865918,
+    "stop" : 1544338868936,
+    "duration" : 3018
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0e4461f7d220562",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_autouse.TestSampleTwo.test_two_answer2",
+  "time" : {
+    "start" : 1544338865865,
+    "stop" : 1544338865868,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6c2cc1faf13bd56",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_decorator.TestSample.test_answer",
+  "time" : {
+    "start" : 1544338865884,
+    "stop" : 1544338865889,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbc30524e8a02feb",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_1.test_add",
+  "time" : {
+    "start" : 1544338879131,
+    "stop" : 1544338879132,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "956d07c56b7a352d",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_fixturebyname.TestSample2.test_answer2_2",
+  "time" : {
+    "start" : 1544338879046,
+    "stop" : 1544338879048,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63064e9bfea4c423",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_rerun.test_add2",
+  "time" : {
+    "start" : 1544338882181,
+    "stop" : 1544338882184,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c06bafd9f07fc472",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_order.test_add",
+  "time" : {
+    "start" : 1544338863711,
+    "stop" : 1544338863723,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44788a04f0f00524",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_parameters.test_add[8-9]",
+  "time" : {
+    "start" : 1544338879065,
+    "stop" : 1544338879079,
+    "duration" : 14
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f220b1f9e5af0be",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_autouse.TestSampleTwo.test_itme",
+  "time" : {
+    "start" : 1544338865873,
+    "stop" : 1544338865875,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f06f162971e621f1",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_autouse.TestSample.test_answer",
+  "time" : {
+    "start" : 1544338865831,
+    "stop" : 1544338865835,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e91e82ab4ee0a34",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_parameters.test_add[6-6]",
+  "time" : {
+    "start" : 1544338879102,
+    "stop" : 1544338879104,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae4eff45c4e12b87",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_parameters.test_add[54-42]",
+  "time" : {
+    "start" : 1544338879109,
+    "stop" : 1544338879113,
+    "duration" : 4
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6dcc14552731ced",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_fixturebyname.TestSample.test_answer",
+  "time" : {
+    "start" : 1544338879015,
+    "stop" : 1544338879019,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2ba342b5603e1e8",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_1.test_add2",
+  "time" : {
+    "start" : 1544338879147,
+    "stop" : 1544338882158,
+    "duration" : 3011
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6916290f3aca8a5c",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_fixturebyname.TestSample.test_answer2",
+  "time" : {
+    "start" : 1544338879028,
+    "stop" : 1544338879030,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e93fdaebf83dc0a1",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s1",
+  "time" : {
+    "start" : 1544338882191,
+    "stop" : 1544338882197,
+    "duration" : 6
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9234e2112ed8d871",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_autouse.TestSampleTwo.test_two_answer",
+  "time" : {
+    "start" : 1544338865852,
+    "stop" : 1544338865856,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8679362bb9b8183a",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s3",
+  "time" : {
+    "start" : 1544338882232,
+    "stop" : 1544338882239,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7625bb98dd109d6c",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_fixturebyname.TestSample2.test_answer2_1",
+  "time" : {
+    "start" : 1544338879037,
+    "stop" : 1544338879040,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b9168cb30f8f2cb",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample2.test_answer4",
+  "time" : {
+    "start" : 1544338873992,
+    "stop" : 1544338879001,
+    "duration" : 5009
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "58e50652af41809",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample.test_answer_3",
+  "time" : {
+    "start" : 1544338870982,
+    "stop" : 1544338873986,
+    "duration" : 3004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8638999db344db78",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_order.test_add2",
+  "time" : {
+    "start" : 1544338863731,
+    "stop" : 1544338865822,
+    "duration" : 2091
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

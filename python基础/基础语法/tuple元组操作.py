@@ -1,0 +1,5 @@
+my_tuple = ("python",12,2.3,9.7)
+tuple1 = (4,6)
+print(id(my_tuple))
+print(id(tuple1))
+print(id(my_tuple+tuple1))

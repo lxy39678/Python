@@ -1,0 +1,90 @@
+{
+  "uid" : "e93fdaebf83dc0a1",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s1",
+  "fullName" : "src.testcases.D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s1",
+  "historyId" : "428f18c96b90cc311b9c258d034b3abd",
+  "time" : {
+    "start" : 1544338882191,
+    "stop" : 1544338882197,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1 == 2",
+  "statusTrace" : "def test_s1():\n        print(\"用例1：搜索python-1\")\n        a=random.randint(1,3)\n        print(a)\n>       assert 1==a\nE       assert 1 == 2\n\nsrc\\testcases\\api\\test_teardown.py:18: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 1 == 2",
+    "statusTrace" : "def test_s1():\n        print(\"用例1：搜索python-1\")\n        a=random.randint(1,3)\n        print(a)\n>       assert 1==a\nE       assert 1 == 2\n\nsrc\\testcases\\api\\test_teardown.py:18: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bba05480a6d54070",
+      "name" : "Captured stdout setup",
+      "source" : "bba05480a6d54070.txt",
+      "type" : "text/plain",
+      "size" : 43
+    }, {
+      "uid" : "25b2f83950ddad",
+      "name" : "Captured stdout call",
+      "source" : "25b2f83950ddad.txt",
+      "type" : "text/plain",
+      "size" : 27
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCVAEIQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "13052-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s1"
+  }, {
+    "name" : "package",
+    "value" : "src.testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e93fdaebf83dc0a1.json",
+  "parameterValues" : [ ]
+}

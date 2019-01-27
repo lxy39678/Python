@@ -1,0 +1,5 @@
+2019-01-10 21:18:57,922 root DEBUG 作业一:15 this is debug log
+2019-01-10 21:18:57,922 root INFO 作业一:16 this is info log
+2019-01-10 21:18:57,923 root ERROR 作业一:17 this is info_log
+NoneType: None
+2019-01-10 21:18:57,923 root DEBUG morelog:7 this is another module

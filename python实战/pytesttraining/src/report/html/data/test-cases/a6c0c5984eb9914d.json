@@ -1,0 +1,66 @@
+{
+  "uid" : "a6c0c5984eb9914d",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_example.TestSample.test_answer_2",
+  "fullName" : "src.D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_example.TestSample.test_answer_2",
+  "historyId" : "ee93d7d9481bbf2a7f150479298584ca",
+  "time" : {
+    "start" : 1537005263513,
+    "stop" : 1537005263552,
+    "duration" : 39
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 10 == 11",
+  "statusTrace" : "self = <src.api.test_example.TestSample object at 0x0000025B34E06DD8>\ncount = 10\n\n    def test_answer_2(self, count):\n        print('test_answer_2 get count %s' % count)\n>       assert count == 11\nE       assert 10 == 11\n\napi\\test_example.py:20: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCVAEIQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "17164-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src"
+  }, {
+    "name" : "testClass",
+    "value" : "src"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_example.TestSample.test_answer_2"
+  }, {
+    "name" : "package",
+    "value" : "src"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a6c0c5984eb9914d.json",
+  "parameterValues" : [ ]
+}

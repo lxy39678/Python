@@ -1,0 +1,9 @@
+{
+  "api/test_example.py::TestSample2::()::test_answer4": true,
+  "api/test_example.py::TestSample::()::test_answer": true,
+  "api/test_example.py::TestSample::()::test_answer_2": true,
+  "api/test_example.py::TestSample::()::test_answer_3": true,
+  "api/test_parameters.py::test_add[54-42]": true,
+  "api/test_parameters.py::test_add[8-9]": true,
+  "api/test_pyexample_rerun.py::test_add2": true
+}

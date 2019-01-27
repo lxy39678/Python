@@ -1,0 +1,7 @@
+[pytest]
+markers =
+  webtest:  Run the webtest case
+  hello: Run the hello case
+  P0:  run P0 cases
+  P1:   Run P1 cases
+  P2:   Run P1 cases

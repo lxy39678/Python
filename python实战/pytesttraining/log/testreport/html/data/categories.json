@@ -1,0 +1,133 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "FileNotFoundError: [Errno 2] No such file or directory: 'aa.txt'",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_order.test_add2",
+        "uid" : "8638999db344db78",
+        "parentUid" : "3abe67d7426cccf73c98af130e822f71",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338863731,
+          "stop" : 1544338865822,
+          "duration" : 2091
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3abe67d7426cccf73c98af130e822f71"
+    }, {
+      "name" : "AssertionError: assert 2 == 3",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample.test_answer",
+        "uid" : "2391a412eba0196f",
+        "parentUid" : "94f84a64f476d0268e3f313c66a85755",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338865918,
+          "stop" : 1544338868936,
+          "duration" : 3018
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample2.test_answer4",
+        "uid" : "8b9168cb30f8f2cb",
+        "parentUid" : "94f84a64f476d0268e3f313c66a85755",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338873992,
+          "stop" : 1544338879001,
+          "duration" : 5009
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "94f84a64f476d0268e3f313c66a85755"
+    }, {
+      "name" : "AssertionError: assert 2 == 4",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample.test_answer_2",
+        "uid" : "c8e00ff3427b82b8",
+        "parentUid" : "111e9a3ae63fecfeab74584dcec8ee30",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338868948,
+          "stop" : 1544338870955,
+          "duration" : 2007
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "111e9a3ae63fecfeab74584dcec8ee30"
+    }, {
+      "name" : "AssertionError: assert 8 == 9",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_parameters.test_add[8-9]",
+        "uid" : "44788a04f0f00524",
+        "parentUid" : "72641e8d293d39329e69b85864aee815",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338879065,
+          "stop" : 1544338879079,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72641e8d293d39329e69b85864aee815"
+    }, {
+      "name" : "AssertionError: assert 54 == 42",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_parameters.test_add[54-42]",
+        "uid" : "ae4eff45c4e12b87",
+        "parentUid" : "0d3d57d4432979815bc83bf830629968",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338879109,
+          "stop" : 1544338879113,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0d3d57d4432979815bc83bf830629968"
+    }, {
+      "name" : "AssertionError: assert 4.3 == 5.3\n +  where 4.3 = add(1.2, 3.1)",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_1.test_add2",
+        "uid" : "d2ba342b5603e1e8",
+        "parentUid" : "72277eabbcc350bbc809238377d41b4c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338879147,
+          "stop" : 1544338882158,
+          "duration" : 3011
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72277eabbcc350bbc809238377d41b4c"
+    }, {
+      "name" : "AssertionError: assert 1 == 2",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s1",
+        "uid" : "e93fdaebf83dc0a1",
+        "parentUid" : "d89f5ad50f342bab320c0753c9baac45",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338882191,
+          "stop" : 1544338882197,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d89f5ad50f342bab320c0753c9baac45"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

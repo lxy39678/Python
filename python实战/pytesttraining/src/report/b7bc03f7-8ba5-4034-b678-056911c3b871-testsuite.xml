@@ -1,0 +1,203 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1537005263505" stop="1537005263580">
+  <name>src</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1537005263505" status="passed" stop="1537005263512">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_example.TestSample.test_answer</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537005263513" status="failed" stop="1537005263552">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_example.TestSample.test_answer_2</name>
+      <failure>
+        <message>AssertionError: assert 10 == 11</message>
+        <stack-trace>self = &lt;src.api.test_example.TestSample object at 0x0000025B34E06DD8&gt;
+count = 10
+
+    def test_answer_2(self, count):
+        print('test_answer_2 get count %s' % count)
+&gt;       assert count == 11
+E       assert 10 == 11
+
+api\test_example.py:20: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537005263552" status="passed" stop="1537005263553">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_example.TestSample.test_answer_3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537005263554" status="passed" stop="1537005263556">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_example.TestSample2.test_answer4</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537005263556" status="failed" stop="1537005263560">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_parameters.test_add[8-9]</name>
+      <failure>
+        <message>AssertionError: assert 8 == 9</message>
+        <stack-trace>x = 8, y = 9
+
+    @pytest.mark.parametrize("x,y", [
+        (3+5, 9),
+        (2+4, 6),
+        (6*9, 42),
+    ])
+    def test_add(x, y):
+&gt;       assert x == y
+E       assert 8 == 9
+
+api\test_parameters.py:11: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537005263561" status="passed" stop="1537005263562">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_parameters.test_add[6-6]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537005263562" status="failed" stop="1537005263565">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_parameters.test_add[54-42]</name>
+      <failure>
+        <message>AssertionError: assert 54 == 42</message>
+        <stack-trace>x = 54, y = 42
+
+    @pytest.mark.parametrize("x,y", [
+        (3+5, 9),
+        (2+4, 6),
+        (6*9, 42),
+    ])
+    def test_add(x, y):
+&gt;       assert x == y
+E       assert 54 == 42
+
+api\test_parameters.py:11: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537005263566" status="passed" stop="1537005263567">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_pyexample_1.test_add</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537005263568" status="passed" stop="1537005263568">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_pyexample_1.test_add2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537005263569" status="passed" stop="1537005263571">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_pyexample_rerun.test_add</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537005263573" status="failed" stop="1537005263577">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_pyexample_rerun.test_add2</name>
+      <failure>
+        <message>AssertionError: assert 4.3 == 3.3
+ +  where 4.3 = add(1.2, 3.1)</message>
+        <stack-trace>def test_add2():
+        print("I am 2")
+&gt;       assert add(1.2, 3.1) == 3.3
+E       assert 4.3 == 3.3
+E        +  where 4.3 = add(1.2, 3.1)
+
+api\test_pyexample_rerun.py:15: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537005263578" status="passed" stop="1537005263580">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\api.test_pysetupexample.TestSample.test_answer</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17164-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

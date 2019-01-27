@@ -1,0 +1,4 @@
+do login action
+
+click home button
+

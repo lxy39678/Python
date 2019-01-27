@@ -1,0 +1,84 @@
+{
+  "uid" : "d2ba342b5603e1e8",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_1.test_add2",
+  "fullName" : "src.testcases.D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_1.test_add2",
+  "historyId" : "8ca6a6e291b0aff1bb408d30f9d3f028",
+  "time" : {
+    "start" : 1544338879147,
+    "stop" : 1544338882158,
+    "duration" : 3011
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 4.3 == 5.3\n +  where 4.3 = add(1.2, 3.1)",
+  "statusTrace" : "def test_add2():\n        print(\"I am 2\")\n        time.sleep(3)\n>       assert  add(1.2, 3.1) == 5.3\nE       assert 4.3 == 5.3\nE        +  where 4.3 = add(1.2, 3.1)\n\nsrc\\testcases\\api\\test_pyexample_1.py:15: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 4.3 == 5.3\n +  where 4.3 = add(1.2, 3.1)",
+    "statusTrace" : "def test_add2():\n        print(\"I am 2\")\n        time.sleep(3)\n>       assert  add(1.2, 3.1) == 5.3\nE       assert 4.3 == 5.3\nE        +  where 4.3 = add(1.2, 3.1)\n\nsrc\\testcases\\api\\test_pyexample_1.py:15: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dbeccfe2a1c9221f",
+      "name" : "Captured stdout call",
+      "source" : "dbeccfe2a1c9221f.txt",
+      "type" : "text/plain",
+      "size" : 7
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCVAEIQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "13052-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_1.test_add2"
+  }, {
+    "name" : "package",
+    "value" : "src.testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d2ba342b5603e1e8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,84 @@
+{
+  "uid" : "c8e00ff3427b82b8",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample.test_answer_2",
+  "fullName" : "src.testcases.D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample.test_answer_2",
+  "historyId" : "ea3092caaf81bee19868a5abbc0f3886",
+  "time" : {
+    "start" : 1544338868948,
+    "stop" : 1544338870955,
+    "duration" : 2007
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 2 == 4",
+  "statusTrace" : "self = <src.testcases.api.test_example.TestSample object at 0x0000017264000860>\ncount = 2\n\n    def test_answer_2(self, count):\n        print('test_answer_2 get count %s' % count)\n        time.sleep(random.randint(1, 5))\n>       assert count == 4\nE       assert 2 == 4\n\nsrc\\testcases\\api\\test_example.py:28: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 2 == 4",
+    "statusTrace" : "self = <src.testcases.api.test_example.TestSample object at 0x0000017264000860>\ncount = 2\n\n    def test_answer_2(self, count):\n        print('test_answer_2 get count %s' % count)\n        time.sleep(random.randint(1, 5))\n>       assert count == 4\nE       assert 2 == 4\n\nsrc\\testcases\\api\\test_example.py:28: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1ef59b5935bb54d6",
+      "name" : "Captured stdout call",
+      "source" : "1ef59b5935bb54d6.txt",
+      "type" : "text/plain",
+      "size" : 26
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCVAEIQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "13052-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample.test_answer_2"
+  }, {
+    "name" : "package",
+    "value" : "src.testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c8e00ff3427b82b8.json",
+  "parameterValues" : [ ]
+}

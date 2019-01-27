@@ -1,0 +1,66 @@
+{
+  "uid" : "ae4eff45c4e12b87",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_parameters.test_add[54-42]",
+  "fullName" : "src.testcases.D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_parameters.test_add[54-42]",
+  "historyId" : "b2db72eb96e632bd4551eb25a17bc52",
+  "time" : {
+    "start" : 1544338879109,
+    "stop" : 1544338879113,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 54 == 42",
+  "statusTrace" : "x = 54, y = 42\n\n    @pytest.mark.parametrize(\"x,y\", [\n        (3+5, 9),\n        (2+4, 6),\n        (6*9, 42),\n    ])\n    def test_add(x, y):\n>       assert x == y\nE       assert 54 == 42\n\nsrc\\testcases\\api\\test_parameters.py:11: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCVAEIQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "13052-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "src.testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_parameters.test_add[54-42]"
+  }, {
+    "name" : "package",
+    "value" : "src.testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ae4eff45c4e12b87.json",
+  "parameterValues" : [ ]
+}

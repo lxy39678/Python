@@ -1,0 +1,337 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-HCVAEIQ",
+    "children" : [ {
+      "name" : "13052-MainThread",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_autouse.TestSample.test_answer2",
+        "uid" : "a82db56f3350e23e",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338865840,
+          "stop" : 1544338865842,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s2",
+        "uid" : "c29c22859731959d",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338882222,
+          "stop" : 1544338882224,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_decorator.TestSample.test_answer2",
+        "uid" : "52735d5465dc0e4c",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338865901,
+          "stop" : 1544338865906,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample.test_answer_2",
+        "uid" : "c8e00ff3427b82b8",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338868948,
+          "stop" : 1544338870955,
+          "duration" : 2007
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_rerun.test_add",
+        "uid" : "796ecfddb361bee8",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338882172,
+          "stop" : 1544338882174,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample.test_answer",
+        "uid" : "2391a412eba0196f",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338865918,
+          "stop" : 1544338868936,
+          "duration" : 3018
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_autouse.TestSampleTwo.test_two_answer2",
+        "uid" : "c0e4461f7d220562",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338865865,
+          "stop" : 1544338865868,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_decorator.TestSample.test_answer",
+        "uid" : "f6c2cc1faf13bd56",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338865884,
+          "stop" : 1544338865889,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_1.test_add",
+        "uid" : "cbc30524e8a02feb",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338879131,
+          "stop" : 1544338879132,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_fixturebyname.TestSample2.test_answer2_2",
+        "uid" : "956d07c56b7a352d",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338879046,
+          "stop" : 1544338879048,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_rerun.test_add2",
+        "uid" : "63064e9bfea4c423",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338882181,
+          "stop" : 1544338882184,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_order.test_add",
+        "uid" : "c06bafd9f07fc472",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338863711,
+          "stop" : 1544338863723,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_parameters.test_add[8-9]",
+        "uid" : "44788a04f0f00524",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338879065,
+          "stop" : 1544338879079,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_autouse.TestSampleTwo.test_itme",
+        "uid" : "8f220b1f9e5af0be",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338865873,
+          "stop" : 1544338865875,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_autouse.TestSample.test_answer",
+        "uid" : "f06f162971e621f1",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338865831,
+          "stop" : 1544338865835,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_parameters.test_add[6-6]",
+        "uid" : "1e91e82ab4ee0a34",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338879102,
+          "stop" : 1544338879104,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_parameters.test_add[54-42]",
+        "uid" : "ae4eff45c4e12b87",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338879109,
+          "stop" : 1544338879113,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_fixturebyname.TestSample.test_answer",
+        "uid" : "e6dcc14552731ced",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338879015,
+          "stop" : 1544338879019,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_pyexample_1.test_add2",
+        "uid" : "d2ba342b5603e1e8",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338879147,
+          "stop" : 1544338882158,
+          "duration" : 3011
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_fixturebyname.TestSample.test_answer2",
+        "uid" : "6916290f3aca8a5c",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338879028,
+          "stop" : 1544338879030,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s1",
+        "uid" : "e93fdaebf83dc0a1",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338882191,
+          "stop" : 1544338882197,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_autouse.TestSampleTwo.test_two_answer",
+        "uid" : "9234e2112ed8d871",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338865852,
+          "stop" : 1544338865856,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_teardown.test_s3",
+        "uid" : "8679362bb9b8183a",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338882232,
+          "stop" : 1544338882239,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_fixturebyname.TestSample2.test_answer2_1",
+        "uid" : "7625bb98dd109d6c",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338879037,
+          "stop" : 1544338879040,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample2.test_answer4",
+        "uid" : "8b9168cb30f8f2cb",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338873992,
+          "stop" : 1544338879001,
+          "duration" : 5009
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_example.TestSample.test_answer_3",
+        "uid" : "58e50652af41809",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544338870982,
+          "stop" : 1544338873986,
+          "duration" : 3004
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\testcases\\api.test_order.test_add2",
+        "uid" : "8638999db344db78",
+        "parentUid" : "fa9d4c565e5acb8ddd9028fc4dd11587",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544338863731,
+          "stop" : 1544338865822,
+          "duration" : 2091
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fa9d4c565e5acb8ddd9028fc4dd11587"
+    } ],
+    "uid" : "4c8bc06c1363ce53fabba67bf33f197a"
+  } ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "3e36def050e0215b",
+  "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_pyexample_rerun.test_add2",
+  "fullName" : "src.D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_pyexample_rerun.test_add2",
+  "historyId" : "d470477637b5f2bceb89d693701aacad",
+  "time" : {
+    "start" : 1537005263573,
+    "stop" : 1537005263577,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 4.3 == 3.3\n +  where 4.3 = add(1.2, 3.1)",
+  "statusTrace" : "def test_add2():\n        print(\"I am 2\")\n>       assert add(1.2, 3.1) == 3.3\nE       assert 4.3 == 3.3\nE        +  where 4.3 = add(1.2, 3.1)\n\napi\\test_pyexample_rerun.py:15: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCVAEIQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "17164-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src"
+  }, {
+    "name" : "testClass",
+    "value" : "src"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_pyexample_rerun.test_add2"
+  }, {
+    "name" : "package",
+    "value" : "src"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3e36def050e0215b.json",
+  "parameterValues" : [ ]
+}

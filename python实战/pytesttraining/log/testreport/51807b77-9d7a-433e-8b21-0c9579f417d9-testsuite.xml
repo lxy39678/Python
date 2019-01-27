@@ -1,0 +1,485 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1544338863711" stop="1544338882239">
+  <name>src.testcases</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1544338863711" status="passed" stop="1544338863723">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_order.test_add</name>
+      <attachments>
+        <attachment source="e8827578-d708-4a1a-b30d-7c9217fdad40-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="09a7d07a-68e8-4af4-91f0-29f4d3db35d4-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338863731" status="failed" stop="1544338865822">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_order.test_add2</name>
+      <failure>
+        <message>FileNotFoundError: [Errno 2] No such file or directory: 'aa.txt'</message>
+        <stack-trace>@pytest.mark.run(order=2)
+    def test_add2():
+        print("I am 2")
+        time.sleep(2)
+&gt;       file_content = open('aa.txt','r')
+E       FileNotFoundError: [Errno 2] No such file or directory: 'aa.txt'
+
+src\testcases\api\test_order.py:12: FileNotFoundError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="7fe87b46-e4c9-41ac-a77f-b845a935ddfd-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338865831" status="passed" stop="1544338865835">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_autouse.TestSample.test_answer</name>
+      <attachments>
+        <attachment source="aa9bcb6f-687f-45f2-b0ab-094106eef30b-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="f713e1ed-275c-4e92-999e-fecb16b6c66a-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338865840" status="passed" stop="1544338865842">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_autouse.TestSample.test_answer2</name>
+      <attachments>
+        <attachment source="43a12fa7-d30f-4b8e-b101-9263b786e982-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338865852" status="passed" stop="1544338865856">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_autouse.TestSampleTwo.test_two_answer</name>
+      <attachments>
+        <attachment source="27b38b70-6057-42d0-8a13-40ededcc0a86-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="7f3c13d7-82f5-4d0d-928c-e0741c42f3e3-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338865865" status="passed" stop="1544338865868">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_autouse.TestSampleTwo.test_two_answer2</name>
+      <attachments>
+        <attachment source="d8d61dc3-8d3d-4500-867a-1a9cfc52bdfd-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338865873" status="passed" stop="1544338865875">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_autouse.TestSampleTwo.test_itme</name>
+      <attachments>
+        <attachment source="45e973fd-a64e-47c1-8457-f50e3d198b8a-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338865884" status="passed" stop="1544338865889">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_decorator.TestSample.test_answer</name>
+      <attachments>
+        <attachment source="a0447fd6-38dc-4d8f-873f-693f60d0860f-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="8ebb73e1-c7de-4970-9ce1-8074c2803a3a-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338865901" status="passed" stop="1544338865906">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_decorator.TestSample.test_answer2</name>
+      <attachments>
+        <attachment source="54222617-30b8-49b0-a422-2510b32418bc-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="a32edfa9-1573-4188-afad-ddac78d1897a-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338865918" status="failed" stop="1544338868936">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_example.TestSample.test_answer</name>
+      <failure>
+        <message>AssertionError: assert 2 == 3</message>
+        <stack-trace>self = &lt;src.testcases.api.test_example.TestSample object at 0x0000017263FF6978&gt;
+count = 2
+
+    def test_answer(self, count):
+        print('test_answer get count %s' % count)
+        time.sleep(random.randint(1, 5))
+&gt;       assert count == 3
+E       assert 2 == 3
+
+src\testcases\api\test_example.py:23: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="8cadd10b-031c-4188-87fc-e82c1589d732-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="20bc11e3-7362-4f57-a417-f6f74d5c4a23-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338868948" status="failed" stop="1544338870955">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_example.TestSample.test_answer_2</name>
+      <failure>
+        <message>AssertionError: assert 2 == 4</message>
+        <stack-trace>self = &lt;src.testcases.api.test_example.TestSample object at 0x0000017264000860&gt;
+count = 2
+
+    def test_answer_2(self, count):
+        print('test_answer_2 get count %s' % count)
+        time.sleep(random.randint(1, 5))
+&gt;       assert count == 4
+E       assert 2 == 4
+
+src\testcases\api\test_example.py:28: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="868e87d3-709e-4158-8515-8db6dac6599a-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338870982" status="passed" stop="1544338873986">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_example.TestSample.test_answer_3</name>
+      <attachments>
+        <attachment source="8a1c2208-c3e3-49c0-a7c8-bdc7cb19ef62-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338873992" status="failed" stop="1544338879001">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_example.TestSample2.test_answer4</name>
+      <failure>
+        <message>AssertionError: assert 2 == 3</message>
+        <stack-trace>self = &lt;src.testcases.api.test_example.TestSample2 object at 0x000001726401E080&gt;
+count = 2
+
+    def test_answer4(self, count):
+        print('test_answer4 get count %s' % count)
+        time.sleep(random.randint(1, 5))
+&gt;       assert count == 3
+E       assert 2 == 3
+
+src\testcases\api\test_example.py:43: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="d8119a9f-24e6-4630-813a-c858f84bfb76-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338879015" status="passed" stop="1544338879019">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_fixturebyname.TestSample.test_answer</name>
+      <attachments>
+        <attachment source="a185524e-3ed7-4705-ac2e-c95171b276a5-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="01601df4-8d7d-467f-af39-097f4fe7f8e0-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338879028" status="passed" stop="1544338879030">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_fixturebyname.TestSample.test_answer2</name>
+      <attachments>
+        <attachment source="092a0ee8-8824-454e-a38b-55b4af2912a5-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338879037" status="passed" stop="1544338879040">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_fixturebyname.TestSample2.test_answer2_1</name>
+      <attachments>
+        <attachment source="901018f3-8b33-4ee1-be46-bba83d9dfa78-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338879046" status="passed" stop="1544338879048">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_fixturebyname.TestSample2.test_answer2_2</name>
+      <attachments>
+        <attachment source="59bcc148-d7cb-45ce-aabe-cb26c9afaf7d-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338879065" status="failed" stop="1544338879079">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_parameters.test_add[8-9]</name>
+      <failure>
+        <message>AssertionError: assert 8 == 9</message>
+        <stack-trace>x = 8, y = 9
+
+    @pytest.mark.parametrize("x,y", [
+        (3+5, 9),
+        (2+4, 6),
+        (6*9, 42),
+    ])
+    def test_add(x, y):
+&gt;       assert x == y
+E       assert 8 == 9
+
+src\testcases\api\test_parameters.py:11: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338879102" status="passed" stop="1544338879104">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_parameters.test_add[6-6]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338879109" status="failed" stop="1544338879113">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_parameters.test_add[54-42]</name>
+      <failure>
+        <message>AssertionError: assert 54 == 42</message>
+        <stack-trace>x = 54, y = 42
+
+    @pytest.mark.parametrize("x,y", [
+        (3+5, 9),
+        (2+4, 6),
+        (6*9, 42),
+    ])
+    def test_add(x, y):
+&gt;       assert x == y
+E       assert 54 == 42
+
+src\testcases\api\test_parameters.py:11: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338879131" status="passed" stop="1544338879132">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_pyexample_1.test_add</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338879147" status="failed" stop="1544338882158">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_pyexample_1.test_add2</name>
+      <failure>
+        <message>AssertionError: assert 4.3 == 5.3
+ +  where 4.3 = add(1.2, 3.1)</message>
+        <stack-trace>def test_add2():
+        print("I am 2")
+        time.sleep(3)
+&gt;       assert  add(1.2, 3.1) == 5.3
+E       assert 4.3 == 5.3
+E        +  where 4.3 = add(1.2, 3.1)
+
+src\testcases\api\test_pyexample_1.py:15: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="fa09de96-55e1-4b63-8f74-095316e4d5d5-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338882172" status="passed" stop="1544338882174">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_pyexample_rerun.test_add</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338882181" status="passed" stop="1544338882184">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_pyexample_rerun.test_add2</name>
+      <attachments>
+        <attachment source="0fabbe0c-8be4-40aa-b085-aa93eb2e360a-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338882191" status="failed" stop="1544338882197">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_teardown.test_s1</name>
+      <failure>
+        <message>AssertionError: assert 1 == 2</message>
+        <stack-trace>def test_s1():
+        print("用例1：搜索python-1")
+        a=random.randint(1,3)
+        print(a)
+&gt;       assert 1==a
+E       assert 1 == 2
+
+src\testcases\api\test_teardown.py:18: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="2242224d-9bd0-4f76-b50f-ec5754942eb5-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="451eddcb-ea9b-4f3f-be89-aef273de1c55-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338882222" status="passed" stop="1544338882224">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_teardown.test_s2</name>
+      <attachments>
+        <attachment source="e79151fa-eac6-4ef7-a641-20bf5e81a5b8-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544338882232" status="passed" stop="1544338882239">
+      <name>D:\study\cy\training\ceba\pytesttraining\src\testcases\api.test_teardown.test_s3</name>
+      <attachments>
+        <attachment source="f69eaa24-59bf-4a18-a599-ca0d4a2ca8bc-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13052-MainThread"/>
+        <label name="host" value="DESKTOP-HCVAEIQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

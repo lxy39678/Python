@@ -1,0 +1,23 @@
+{
+  "test_add_demo.py::test_add2": true,
+  "test_assume.py::test_add3": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initial[\\u4f60-]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initial[\\u4f60\\u597d-N]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initial[nihao-]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initial[u\\u4f60-]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initials[\\u4f60\\u597d-nihao]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initials[\\u4f60hao-]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initials[ni\\u597d-]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initials[nihao-]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[123-marks-]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[123-numbers-]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[ni\\u597d--]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[u\\u4f60\\u597d--]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[u\\u4f60\\u597d--nihao]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[u\\u4f60\\u597d-marks-u-w\\u01d2-men]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[u\\u4f60\\u597d-numbers-123]": true,
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[u\\u6211\\u4eec-marks-]": true,
+  "xpinyin-master/src/testcases/test_get_pinyin.py": true,
+  "xpinyin-master/src/testcases/test_get_pinyin.py::TestPinyin::()::test_get_pinyin[u\\u4f60\\u597d--nihao]": true,
+  "xpinyin-master/src/xpinyin/test_get_pinyin.py": true
+}

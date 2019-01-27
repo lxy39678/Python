@@ -1,0 +1,73 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 10 == 11",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_example.TestSample.test_answer_2",
+        "uid" : "a6c0c5984eb9914d",
+        "parentUid" : "3306acfd666f9d1a46a45bd24e7239c5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1537005263513,
+          "stop" : 1537005263552,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3306acfd666f9d1a46a45bd24e7239c5"
+    }, {
+      "name" : "AssertionError: assert 8 == 9",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_parameters.test_add[8-9]",
+        "uid" : "a19b436252eb6bde",
+        "parentUid" : "72641e8d293d39329e69b85864aee815",
+        "status" : "failed",
+        "time" : {
+          "start" : 1537005263556,
+          "stop" : 1537005263560,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72641e8d293d39329e69b85864aee815"
+    }, {
+      "name" : "AssertionError: assert 54 == 42",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_parameters.test_add[54-42]",
+        "uid" : "c32e6a7cbb7a100a",
+        "parentUid" : "0d3d57d4432979815bc83bf830629968",
+        "status" : "failed",
+        "time" : {
+          "start" : 1537005263562,
+          "stop" : 1537005263565,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0d3d57d4432979815bc83bf830629968"
+    }, {
+      "name" : "AssertionError: assert 4.3 == 3.3\n +  where 4.3 = add(1.2, 3.1)",
+      "children" : [ {
+        "name" : "D:\\study\\cy\\training\\ceba\\pytesttraining\\src\\api.test_pyexample_rerun.test_add2",
+        "uid" : "3e36def050e0215b",
+        "parentUid" : "73ec5edb794f981f7a729df2dc3eb2fe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1537005263573,
+          "stop" : 1537005263577,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "73ec5edb794f981f7a729df2dc3eb2fe"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

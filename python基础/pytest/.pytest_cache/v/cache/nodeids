@@ -1,0 +1,15 @@
+[
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[u\\u4f60\\u597d--u-ni-hao]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[u\\u4f60\\u597d-numbers-u-ni3-hao3]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[u\\u4f60\\u597d-marks-u-n\\u01d0-h\\u01ceo]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[nihao--nihao]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[ni\\u597d--ni-hao]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_pinyin[\\u4f60hao--ni-hao]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initial[\\u4f60-N]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initial[N-N]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initial[n-n]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initials[\\u4f60\\u597d-N-H]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initials[ni\\u597d-n-i-H]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initials[\\u4f60hao-N-h-a-o]",
+  "xpinyin-master/src/testcase/test_pinyin.py::Test_pinyin::()::test_get_initials[nihao-n-i-h-a-o]"
+]
